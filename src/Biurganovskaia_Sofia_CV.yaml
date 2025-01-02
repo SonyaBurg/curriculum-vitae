@@ -1,0 +1,142 @@
+cv:
+  name: Sofia Biurganovskaia
+  location: Paphos, Cyprus
+  email: biurganovskaia@gmail.com
+  phone: tel:+357 9445 2184
+  social_networks:
+    - network: GitHub
+      username: SonyaBurg
+    - network: LinkedIn
+      username: sofia-biurganovskaia
+    - network: Telegram
+      username: re_discoo
+  sections:
+    # welcome_to_RenderCV!:
+    #   - '[RenderCV](https://github.com/sinaatalay/rendercv) is
+    #     a LaTeX-based CV/resume framework. It allows you to create
+    #     a high-quality CV or resume as a PDF file from a YAML
+    #     file, with **full Markdown syntax support** and **complete
+    #     control over the LaTeX code**.'
+    #   - The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-blkv/mcdowell-cv).
+    # quick_guide:
+    #   - bullet: Each section title is arbitrary and each section
+    #       contains a list of entries.
+    #   - bullet: 'There are 7 unique entry types: *BulletEntry*,
+    #       *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*,
+    #       *PublicationEntry*, and *OneLineEntry*.'
+    #   - bullet: Select a section title, pick an entry type, and
+    #       start writing your section!
+    #   - bullet: '[Here](https://docs.rendercv.com/user_guide/),
+    #       you can find a comprehensive user guide for RenderCV.'
+    education:
+      - institution: ITMO University
+        area: Computer Science
+        degree: BS
+        start_date: 2021
+        end_date: 2023
+
+      - institution: Neapolis University Pafos
+        area: Applied Computer Science JetBrains Program
+        degree: BS
+        start_date: 2023
+        end_date: 2025
+
+    awards and scholarships:
+      - JetBrains Scholarship in Neapolis University Paphos
+    work experience:
+        - company: Hyperskill
+          position: Educational content creator
+          location: Paphos, Cyprus
+          start_date: 2023-02
+          end_date: 2024-02
+          highlights:
+            - Created educational content for the Hyperskill platform
+            - Tested other authors' content
+            - Fixed bugs, errors, and typos according to user feedback
+        - company: JetBrains
+          position: Intern Developer at JetBrains Academy
+          location: Paphos, Cyprus
+          start_date: 2024-03
+          end_date: 2024-12
+          highlights:
+            - 'Over the course of the internship, I worked on [integration of JetBrains Academy plugin with Rider IDE and Unity Editor](https://drive.google.com/file/d/1WoW1RgmzC_QNE1PJSZ3Bqexz9DNVAvin/view?usp=sharing), adding C# and Unity courses support.'
+        - company: JetBrains
+          position: Junior Developer at JetBrains Academy
+          location: Paphos, Cyprus
+          start_date: 2025-01
+
+    technologies:
+      - label: Languages
+        details: Kotlin, C/C++, Java, Python
+      - label: Technologies
+        details: Spring, Git, Docker, Kubernetes, Gradle, AWS, PostgreSQL
+    projects:
+      - name: '[Constant evaluation in Kotlin](https://drive.google.com/file/d/1AD9tS-M0FZX2eGw5dcnHjX_YyEh3BLGl/view?usp=sharing)'
+        date: 2024-09
+        highlights:
+          - 'Developed a [plugin](https://github.com/SonyaBurg/kotlin-constexpr-support) for the backend of Kotlin Compiler that allows evaluation of constant expressions at compile-time.'
+
+      - name: '[ISP](https://github.com/asahium/isp)'
+        date: 2024-05
+        highlights:
+          - 'Developed an internet provider from scratch with BGP, NAT, DHCP, DNS using BIRD, FRRouting, iptables, and dnsmasq. Supports IPv4 and IPv6.'
+
+      - name: Custom bootloader
+        date: 2024-05
+        highlights:
+          - Developed a custom bootloader and a custom kernel from scratch for the operating systems course.
+          - 'Tools Used: C, Assembly, QEMU'
+
+      - name: Plugin for Minecraft
+        date: 2021-08
+        highlights:
+          - Developed a plugin for Minecraft that turns built-in peaceful mobs into hostile ones and adds the possibility to launch a tornado.
+          - 'Tools Used: Java, Spigot API'
+
+    miscellaneous:
+      - bullet: 'English level C1 ([Password Skills Plus Test 7.0](https://drive.google.com/file/d/125A2hjAsJC6aRWulAMg6xOu1e6PfJCy9/view?usp=sharing), taken in Nov 2022)'
+      - bullet: 'French level B2'
+      - bullet: 'Maintenance course at Forge, Wargaming (Mar 2024 - Jun 2024): [certificate of successful completion](https://drive.google.com/file/d/1p-x37Ugsu4JONwdZj5UdreDqEqGhXrW3/view?usp=sharing)'
+      - bullet: 'Yandex mobile development summer school (Jun - Aug 2022)'
+      - bullet: 'JetBrains machine learning summer school (Aug 2021)'
+      - bullet: 'Diploma of 2nd degree in the All-Russian Olympiad in Linguistics (2018)'
+
+design:
+  theme: classic
+  font: Charter
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#78211a'
+  disable_external_link_icons: true
+  disable_page_numbering: false
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: false
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 30 pt
+  text_alignment: justified
+  seperator_between_connections: ''
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+      education_degree_width: 1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  show_timespan_in:
+    - Experience
