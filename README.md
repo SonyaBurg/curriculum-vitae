@@ -26,83 +26,101 @@ Picture this:
 -  Edit and preview your CV in your browser without installing anything by creating a codespace. Click the <> **Code** button, then click the **Codespaces** tab, and then click **Create codespace on main**. The environment will be ready for RenderCV usage. Update `.vscode/launch.json` to point to your YAML file and press `F5` to run RenderCV in the browser.
 
 <!-- Remove above in src/markdown/Header.j2.md not in README.md -->
-# John Doe's CV
+# Sofia Biurganovskaia's CV
 
-- Phone: +90 541 999 99 99
-- Email: [youremail@yourdomain.com](mailto:youremail@yourdomain.com)
-- Location: Your Location
-- Website: [yourwebsite.com](https://yourwebsite.com/)
-- LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Phone: +357 94 452184
+- Email: [biurganovskaia@gmail.com](mailto:biurganovskaia@gmail.com)
+- Location: Paphos, Cyprus
+- GitHub: [SonyaBurg](https://github.com/SonyaBurg)
+- LinkedIn: [sofia-biurganovskaia](https://linkedin.com/in/sofia-biurganovskaia)
+- Telegram: [re_discoo](https://t.me/re_discoo)
 
 
-# Welcome to RenderCV!
-
-[RenderCV](https://rendercv.com) is a LaTeX-based CV/resume version-control and maintenance app. It allows you to create a high-quality CV or resume as a PDF file from a YAML file, with **Markdown syntax support** and **complete control over the LaTeX code**.
-
-The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-blkv/mcdowell-cv).
-
-# Quick Guide
-
-- Each section title is arbitrary and each section contains a list of entries.
-- There are 7 unique entry types: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.
-- Select a section title, pick an entry type, and start writing your section!
-- [Here](https://docs.rendercv.com/user_guide/), you can find a comprehensive user guide for RenderCV.
 # Education
 
-## University of Pennsylvania, BS in Computer Science
+## ITMO University, BS in Computer Science
 
-- Sept 2000 – May 2005
-- GPA: 3.9/4.0 ([a link to somewhere](https://example.com))
-- **Coursework:** Computer Architecture, Comparison of Learning Algorithms, Computational Theory
+- 2021 – 2023
 
-# Experience
+## Neapolis University Pafos, BS in Applied Computer Science JetBrains Program
 
-## Apple, Software Engineer
+- 2023 – 2025
 
-- June 2005 – Aug 2007
-- Cupertino, CA
-- Reduced time to render user buddy lists by 75% by implementing a prediction algorithm
-- Integrated iChat with Spotlight Search by creating a tool to extract metadata from saved chat transcripts and provide metadata to a system-wide search database
-- Redesigned chat file format and implemented backward compatibility for search
+# Awards and Scholarships
 
-## Microsoft, Software Engineer Intern
+JetBrains Scholarship in Neapolis University Paphos
 
-- June 2003 – Aug 2003
-- Redmond, WA
-- Designed a UI for the VS open file switcher (Ctrl-Tab) and extended it to tool windows
-- Created a service to provide gradient across VS and VS add-ins, optimizing its performance via caching
-- Built an app to compute the similarity of all methods in a codebase, reducing the time from $$\mathcal{O}(n^2)$$ to $$\mathcal{O}(n \log n)$$
-- Created a test case generation tool that creates random XML docs from XML Schema
-- Automated the extraction and processing of large datasets from legacy systems using SQL and Perl scripts
+# Work Experience
 
-# Publications
+## Hyperskill, Educational content creator
 
-## 3D Finite Element Analysis of No-Insulation Coils ([10.1109/TASC.2023.3340648](https://doi.org/10.1109/TASC.2023.3340648))
-- Jan 2004
-- Frodo Baggins, ***John Doe***, Samwise Gamgee
+- Feb 2023 – Feb 2024
+- Paphos, Cyprus
+- Created educational content for the Hyperskill platform
+- Tested other authors' content
+- Fixed bugs, errors, and typos according to user feedback
 
-# Projects
+## JetBrains, Intern Developer at JetBrains Academy
 
-## Multi-User Drawing Tool
+- Mar 2024 – Dec 2024
+- Paphos, Cyprus
+- Over the course of the internship, I worked on [integration of JetBrains Academy plugin with Rider IDE and Unity Editor](https://drive.google.com/file/d/1WoW1RgmzC_QNE1PJSZ3Bqexz9DNVAvin/view?usp=sharing), adding C# and Unity courses support.
 
-- [github.com/name/repo](https://github.com/rendercv/rendercv)
-- Developed an electronic classroom where multiple users can simultaneously view and draw on a "chalkboard" with each person's edits synchronized
-- Tools Used: C++, MFC
+## JetBrains, Junior Developer at JetBrains Academy
 
-## Synchronized Desktop Calendar
-
-- [github.com/name/repo](https://github.com/rendercv/rendercv)
-- Developed a desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users
-- Tools Used: C#, .NET, SQL, XML
-
-## Custom Operating System
-
-- 2002
-- Built a UNIX-style OS with a scheduler, file system, text editor, and calculator
-- Tools Used: C
+- Jan 2025 – present
+- Paphos, Cyprus
 
 # Technologies
 
-- Languages: C++, C, Java, Objective-C, C#, SQL, JavaScript
-- Technologies: .NET, Microsoft SQL Server, XCode, Interface Builder
+- Languages: Kotlin, C/C++, Java, Python
+- Technologies: Spring, Git, Docker, Kubernetes, Gradle, AWS, PostgreSQL
+# Projects
+
+## [Constant evaluation in Kotlin](https://drive.google.com/file/d/1AD9tS-M0FZX2eGw5dcnHjX_YyEh3BLGl/view?usp=sharing)
+
+- Sept 2024
+- Developed a [plugin](https://github.com/SonyaBurg/kotlin-constexpr-support) for the backend of Kotlin Compiler that allows evaluation of constant expressions at compile-time.
+
+## [ISP](https://github.com/asahium/isp)
+
+- May 2024
+- Developed an internet provider from scratch with BGP, NAT, DHCP, DNS using BIRD, FRRouting, iptables, and dnsmasq. Supports IPv4 and IPv6.
+
+## Custom bootloader
+
+- May 2024
+- Developed a custom bootloader and a custom kernel from scratch for the operating systems course.
+- Tools Used: C, Assembly, QEMU
+
+## Plugin for Minecraft
+
+- Aug 2021
+- Developed a plugin for Minecraft that turns built-in peaceful mobs into hostile ones and adds the possibility to launch a tornado.
+- Tools Used: Java, Spigot API
+
+# Selected Schools and Workshops
+
+## Wargaming, Forge, Maintenance course
+
+- Mar 2024 – June 2024
+- Passed with a [certificate of successful completion](https://drive.google.com/file/d/1p-x37Ugsu4JONwdZj5UdreDqEqGhXrW3/view?usp=sharing)
+
+## JetBrains, Concurrent programming intensive course
+
+- May 2023 – June 2023
+
+## Yandex, Mobile development summer school
+
+- June 2022 – Aug 2022
+
+## JetBrains, Machine learning summer school
+
+- Aug 2021
+- Passed with a certificate of successful completion
+
+# Miscellaneous
+
+- English level C1 ([Password Skills Plus Test 7.0](https://drive.google.com/file/d/125A2hjAsJC6aRWulAMg6xOu1e6PfJCy9/view?usp=sharing), taken in Nov 2022)
+- French level B2
+- Diploma of 2nd degree in the All-Russian Olympiad in Linguistics (2018)
