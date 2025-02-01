@@ -64,6 +64,8 @@ cv:
           position: Junior Developer at JetBrains Academy
           location: Paphos, Cyprus
           start_date: 2025-01
+          highlights:
+            - 'My current responsibilities include designing, developing, and maintaining Spring-based services.'
 
     technologies:
       - label: Languages
