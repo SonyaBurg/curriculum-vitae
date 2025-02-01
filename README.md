@@ -70,6 +70,7 @@ JetBrains Scholarship in Neapolis University Paphos
 
 - Jan 2025 – present
 - Paphos, Cyprus
+- My current responsibilities include designing, developing, and maintaining Spring-based services.
 
 # Technologies
 
