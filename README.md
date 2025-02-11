@@ -60,16 +60,12 @@ JetBrains Scholarship in Neapolis University Paphos
 - Tested other authors' content
 - Fixed bugs, errors, and typos according to user feedback
 
-## JetBrains, Intern Developer at JetBrains Academy
-
-- Mar 2024 – Dec 2024
-- Paphos, Cyprus
-- Over the course of the internship, I worked on [integration of JetBrains Academy plugin with Rider IDE and Unity Editor](https://drive.google.com/file/d/1WoW1RgmzC_QNE1PJSZ3Bqexz9DNVAvin/view?usp=sharing), adding C# and Unity courses support.
-
 ## JetBrains, Junior Developer at JetBrains Academy
 
-- Jan 2025 – present
+- Mar 2024 – present
 - Paphos, Cyprus
+- I am developing and maintaining JetBrains IntelliJ plugin features.
+- Added [integration of JetBrains Academy plugin with Rider IDE and Unity Editor](https://drive.google.com/file/d/1WoW1RgmzC_QNE1PJSZ3Bqexz9DNVAvin/view?usp=sharing).
 - My current responsibilities include designing, developing, and maintaining Spring-based services.
 
 # Technologies
@@ -101,6 +97,11 @@ JetBrains Scholarship in Neapolis University Paphos
 - Tools Used: Java, Spigot API
 
 # Selected Schools and Workshops
+
+## JetBrains, AI Hackathon
+
+- Feb 2025 – Feb 2025
+- Over the course of the hackathon we developed multiple [AI-driven features](https://github.com/JetBrains/educational-plugin/tree/ai-hackathon-features) integrated into IDE environment, allowing stacktrace explanation in a human-readable language and code refactoring of a learner's solution.
 
 ## Wargaming, Forge, Maintenance course
 
