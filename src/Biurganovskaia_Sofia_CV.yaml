@@ -44,28 +44,23 @@ cv:
     awards and scholarships:
       - JetBrains Scholarship in Neapolis University Paphos
     work experience:
-        - company: Hyperskill
-          position: Educational content creator
-          location: Paphos, Cyprus
-          start_date: 2023-02
-          end_date: 2024-02
-          highlights:
-            - Created educational content for the Hyperskill platform
-            - Tested other authors' content
-            - Fixed bugs, errors, and typos according to user feedback
-        - company: JetBrains
-          position: Intern Developer at JetBrains Academy
-          location: Paphos, Cyprus
-          start_date: 2024-03
-          end_date: 2024-12
-          highlights:
-            - 'Over the course of the internship, I worked on [integration of JetBrains Academy plugin with Rider IDE and Unity Editor](https://drive.google.com/file/d/1WoW1RgmzC_QNE1PJSZ3Bqexz9DNVAvin/view?usp=sharing), adding C# and Unity courses support.'
-        - company: JetBrains
-          position: Junior Developer at JetBrains Academy
-          location: Paphos, Cyprus
-          start_date: 2025-01
-          highlights:
-            - 'My current responsibilities include designing, developing, and maintaining Spring-based services.'
+      - company: Hyperskill
+        position: Educational content creator
+        location: Paphos, Cyprus
+        start_date: 2023-02
+        end_date: 2024-02
+        highlights:
+          - Created educational content for the Hyperskill platform
+          - Tested other authors' content
+          - Fixed bugs, errors, and typos according to user feedback
+      - company: JetBrains
+        position: Junior Developer at JetBrains Academy
+        location: Paphos, Cyprus
+        start_date: 2024-03
+        highlights:
+          - 'I am developing and maintaining JetBrains IntelliJ plugin features.'
+          - 'Added [integration of JetBrains Academy plugin with Rider IDE and Unity Editor](https://drive.google.com/file/d/1WoW1RgmzC_QNE1PJSZ3Bqexz9DNVAvin/view?usp=sharing).'
+          - 'My current responsibilities include designing, developing, and maintaining Spring-based services.'
 
     technologies:
       - label: Languages
@@ -96,6 +91,12 @@ cv:
           - 'Tools Used: Java, Spigot API'
 
     selected schools and workshops:
+      - company: 'JetBrains'
+        position: 'AI Hackathon'
+        start_date: 2025-02-02
+        end_date: 2025-02-08
+        highlights:
+          - "Over the course of the hackathon we developed multiple [AI-driven features](https://github.com/JetBrains/educational-plugin/tree/ai-hackathon-features) integrated into IDE environment, allowing stacktrace explanation in a human-readable language and code refactoring of a learner's solution."
       - company: 'Wargaming, Forge'
         position: 'Maintenance course'
         start_date: 2024-03
