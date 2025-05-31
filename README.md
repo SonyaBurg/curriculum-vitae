@@ -123,6 +123,6 @@ JetBrains Scholarship in Neapolis University Paphos
 
 # Miscellaneous
 
-- English level C1 ([Password Skills Plus Test 7.0](https://drive.google.com/file/d/125A2hjAsJC6aRWulAMg6xOu1e6PfJCy9/view?usp=sharing), taken in Nov 2022)
+- English level C1 ([IELTS 8.0](https://drive.google.com/file/d/1d7x1HtVZTvp45cFnm_21eMtTf5pq8atW/view?usp=sharing), taken in Feb 2025)
 - French level B2
 - Diploma of 2nd degree in the All-Russian Olympiad in Linguistics (2018)
